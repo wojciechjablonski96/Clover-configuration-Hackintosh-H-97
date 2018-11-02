@@ -1,0 +1,126 @@
+36:509  1:129  Found BIOS RSDP at FD9B0
+36:509  0:000  Printing ACPI tables from RSDP FD9B0 ...
+36:509  0:000   FD9B0: 'RSD PTR ', Rev: 2 (Acpi 2.0 or newer), Len: 36
+36:509  0:000    (Xsdt: CE7AC088, Rsdt: CE7AC028)
+36:509  0:000    CE7AC088: 'XSDT', 'A M I', Rev: 1, Len: 148
+36:509  0:000    CE7AC028: 'RSDT', 'A M I', Rev: 1, Len: 92
+36:509  0:000    Tables in Xsdt: 14
+36:509  0:000    0. CE7BEDB0: 'FACP', 'A M I', Rev: 5, Len: 268
+36:509  0:000        (Dsdt: CE7AC1B8, Facs: CE7E2F80, XDsdt: CE7AC1B8, XFacs: 0)
+36:509  0:000        CE7AC1B8: 'DSDT', 'A M I', Rev: 2, Len: 76786
+36:510  0:001        CE7E2F80: 'FACS', Ver: 2, Len: 64
+36:510  0:000    1. CE7BEEC0: 'APIC', 'A M I', Rev: 3, Len: 114
+36:510  0:000    2. CE7BEF38: 'FPDT', 'A M I', Rev: 1, Len: 68
+36:510  0:000    3. CE7BEF80: 'FIDT', 'A M I', Rev: 1, Len: 156
+36:510  0:000    4. CE7BF020: 'SSDT', 'Ther_Rvp', Rev: 2, Len: 3197
+36:510  0:000    5. CE7BFCA0: 'SSDT', 'Cpu0Ist', Rev: 2, Len: 1337
+36:510  0:000    6. CE7C01E0: 'SSDT', 'CpuSsdt', Rev: 2, Len: 2932
+36:510  0:000    7. CE7C0D58: 'MCFG', 'A M I', Rev: 1, Len: 60
+36:510  0:000    8. CE7C0D98: 'HPET', 'A M I', Rev: 1, Len: 56
+36:510  0:000    9. CE7C0DD0: 'SSDT', 'SataTabl', Rev: 1, Len: 877
+36:510  0:000    10. CE7C1140: 'SSDT', 'SaSsdt', Rev: 2, Len: 22581
+36:510  0:000    11. CE7C6978: 'ASF!', ' HCG', Rev: 32, Len: 165
+36:510  0:000    12. CE7C6A20: 'UEFI', 'A M I', Rev: 1, Len: 66
+36:510  0:000    13. CE7C6A68: 'BGRT', 'A M I', Rev: 1, Len: 56
+36:510  0:000    Tables in Rsdt: 14
+36:510  0:000    0. CE7AC130: 'FACP', 'A M I', Rev: 2, Len: 132
+36:510  0:000        (Dsdt: CE7AC1B8, Facs: CE7E2F40)
+36:510  0:000        CE7AC1B8: 'DSDT', 'A M I', Rev: 2, Len: 76786
+36:511  0:001        CE7E2F40: 'FACS', Ver: 0, Len: 64
+36:511  0:000    1. CE7BEEC0: 'APIC', 'A M I', Rev: 3, Len: 114
+36:511  0:000    2. CE7BEF38: 'FPDT', 'A M I', Rev: 1, Len: 68
+36:511  0:000    3. CE7BEF80: 'FIDT', 'A M I', Rev: 1, Len: 156
+36:511  0:000    4. CE7BF020: 'SSDT', 'Ther_Rvp', Rev: 2, Len: 3197
+36:511  0:000    5. CE7BFCA0: 'SSDT', 'Cpu0Ist', Rev: 2, Len: 1337
+36:511  0:000    6. CE7C01E0: 'SSDT', 'CpuSsdt', Rev: 2, Len: 2932
+36:511  0:000    7. CE7C0D58: 'MCFG', 'A M I', Rev: 1, Len: 60
+36:511  0:000    8. CE7C0D98: 'HPET', 'A M I', Rev: 1, Len: 56
+36:511  0:000    9. CE7C0DD0: 'SSDT', 'SataTabl', Rev: 1, Len: 877
+36:511  0:000    10. CE7C1140: 'SSDT', 'SaSsdt', Rev: 2, Len: 22581
+36:511  0:000    11. CE7C6978: 'ASF!', ' HCG', Rev: 32, Len: 165
+36:511  0:000    12. CE7C6A20: 'UEFI', 'A M I', Rev: 1, Len: 66
+36:511  0:000    13. CE7C6A68: 'BGRT', 'A M I', Rev: 1, Len: 56
+36:511  0:000  Found UEFI Acpi 2.0 RSDP at CE7AC000
+36:511  0:000  Saving ACPI tables from RSDP CE7AC000 to EFI\CLOVER\ACPI\origin ...
+36:511  0:000   CE7AC000: 'RSD PTR ', Rev: 2 (Acpi 2.0 or newer), Len: 36
+36:511  0:000    (Xsdt: CE7AC088, Rsdt: CE7AC028)
+36:511  0:000    CE7AC088: 'XSDT', 'A M I', Rev: 1, Len: 148
+36:511  0:000    CE7AC028: 'RSDT', 'A M I', Rev: 1, Len: 92
+36:511  0:000    Tables in Xsdt: 14
+36:511  0:000    0. CE7BEDB0: 'FACP', 'A M I', Rev: 5, Len: 268
+36:511  0:000        (Dsdt: CE7AC1B8, Facs: CE7E2F80, XDsdt: CE7AC1B8, XFacs: 0)
+36:511  0:000        CE7AC1B8: 'DSDT', 'A M I', Rev: 2, Len: 76786
+36:512  0:001        CE7E2F80: 'FACS', Ver: 2, Len: 64
+36:512  0:000    1. CE7BEEC0: 'APIC', 'A M I', Rev: 3, Len: 114
+36:512  0:000    2. CE7BEF38: 'FPDT', 'A M I', Rev: 1, Len: 68
+36:512  0:000    3. CE7BEF80: 'FIDT', 'A M I', Rev: 1, Len: 156
+36:512  0:000    4. CE7BF020: 'SSDT', 'Ther_Rvp', Rev: 2, Len: 3197
+36:512  0:000    5. CE7BFCA0: 'SSDT', 'Cpu0Ist', Rev: 2, Len: 1337
+36:512  0:000    6. CE7C01E0: 'SSDT', 'CpuSsdt', Rev: 2, Len: 2932
+36:512  0:000    7. CE7C0D58: 'MCFG', 'A M I', Rev: 1, Len: 60
+36:512  0:000    8. CE7C0D98: 'HPET', 'A M I', Rev: 1, Len: 56
+36:512  0:000    9. CE7C0DD0: 'SSDT', 'SataTabl', Rev: 1, Len: 877
+36:512  0:000    10. CE7C1140: 'SSDT', 'SaSsdt', Rev: 2, Len: 22581
+36:512  0:000    11. CE7C6978: 'ASF!', ' HCG', Rev: 32, Len: 165
+36:512  0:000    12. CE7C6A20: 'UEFI', 'A M I', Rev: 1, Len: 66
+36:512  0:000    13. CE7C6A68: 'BGRT', 'A M I', Rev: 1, Len: 56
+36:512  0:000    Tables in Rsdt: 14
+36:512  0:000    0. CE7AC130: 'FACP', 'A M I', Rev: 2, Len: 132
+36:512  0:000        (Dsdt: CE7AC1B8, Facs: CE7E2F40)
+36:512  0:000        CE7AC1B8: 'DSDT', 'A M I', Rev: 2, Len: 76786
+36:513  0:001        CE7E2F40: 'FACS', Ver: 0, Len: 64
+36:513  0:000    1. CE7BEEC0: 'APIC', 'A M I', Rev: 3, Len: 114
+36:513  0:000    2. CE7BEF38: 'FPDT', 'A M I', Rev: 1, Len: 68
+36:513  0:000    3. CE7BEF80: 'FIDT', 'A M I', Rev: 1, Len: 156
+36:513  0:000    4. CE7BF020: 'SSDT', 'Ther_Rvp', Rev: 2, Len: 3197
+36:513  0:000    5. CE7BFCA0: 'SSDT', 'Cpu0Ist', Rev: 2, Len: 1337
+36:513  0:000    6. CE7C01E0: 'SSDT', 'CpuSsdt', Rev: 2, Len: 2932
+36:513  0:000    7. CE7C0D58: 'MCFG', 'A M I', Rev: 1, Len: 60
+36:513  0:000    8. CE7C0D98: 'HPET', 'A M I', Rev: 1, Len: 56
+36:513  0:000    9. CE7C0DD0: 'SSDT', 'SataTabl', Rev: 1, Len: 877
+36:513  0:000    10. CE7C1140: 'SSDT', 'SaSsdt', Rev: 2, Len: 22581
+36:513  0:000    11. CE7C6978: 'ASF!', ' HCG', Rev: 32, Len: 165
+36:513  0:000    12. CE7C6A20: 'UEFI', 'A M I', Rev: 1, Len: 66
+36:513  0:000    13. CE7C6A68: 'BGRT', 'A M I', Rev: 1, Len: 56
+36:513  0:000  Found UEFI Acpi 1.0 RSDP at CE7AC000
+36:513  0:000  Printing ACPI tables from RSDP CE7AC000 ...
+36:513  0:000   CE7AC000: 'RSD PTR ', Rev: 2 (Acpi 2.0 or newer), Len: 36
+36:513  0:000    (Xsdt: CE7AC088, Rsdt: CE7AC028)
+36:513  0:000    CE7AC088: 'XSDT', 'A M I', Rev: 1, Len: 148
+36:513  0:000    CE7AC028: 'RSDT', 'A M I', Rev: 1, Len: 92
+36:513  0:000    Tables in Xsdt: 14
+36:513  0:000    0. CE7BEDB0: 'FACP', 'A M I', Rev: 5, Len: 268
+36:513  0:000        (Dsdt: CE7AC1B8, Facs: CE7E2F80, XDsdt: CE7AC1B8, XFacs: 0)
+36:513  0:000        CE7AC1B8: 'DSDT', 'A M I', Rev: 2, Len: 76786
+36:514  0:001        CE7E2F80: 'FACS', Ver: 2, Len: 64
+36:514  0:000    1. CE7BEEC0: 'APIC', 'A M I', Rev: 3, Len: 114
+36:514  0:000    2. CE7BEF38: 'FPDT', 'A M I', Rev: 1, Len: 68
+36:514  0:000    3. CE7BEF80: 'FIDT', 'A M I', Rev: 1, Len: 156
+36:514  0:000    4. CE7BF020: 'SSDT', 'Ther_Rvp', Rev: 2, Len: 3197
+36:514  0:000    5. CE7BFCA0: 'SSDT', 'Cpu0Ist', Rev: 2, Len: 1337
+36:514  0:000    6. CE7C01E0: 'SSDT', 'CpuSsdt', Rev: 2, Len: 2932
+36:514  0:000    7. CE7C0D58: 'MCFG', 'A M I', Rev: 1, Len: 60
+36:514  0:000    8. CE7C0D98: 'HPET', 'A M I', Rev: 1, Len: 56
+36:514  0:000    9. CE7C0DD0: 'SSDT', 'SataTabl', Rev: 1, Len: 877
+36:514  0:000    10. CE7C1140: 'SSDT', 'SaSsdt', Rev: 2, Len: 22581
+36:514  0:000    11. CE7C6978: 'ASF!', ' HCG', Rev: 32, Len: 165
+36:514  0:000    12. CE7C6A20: 'UEFI', 'A M I', Rev: 1, Len: 66
+36:514  0:000    13. CE7C6A68: 'BGRT', 'A M I', Rev: 1, Len: 56
+36:514  0:000    Tables in Rsdt: 14
+36:514  0:000    0. CE7AC130: 'FACP', 'A M I', Rev: 2, Len: 132
+36:514  0:000        (Dsdt: CE7AC1B8, Facs: CE7E2F40)
+36:514  0:000        CE7AC1B8: 'DSDT', 'A M I', Rev: 2, Len: 76786
+36:516  0:001        CE7E2F40: 'FACS', Ver: 0, Len: 64
+36:516  0:000    1. CE7BEEC0: 'APIC', 'A M I', Rev: 3, Len: 114
+36:516  0:000    2. CE7BEF38: 'FPDT', 'A M I', Rev: 1, Len: 68
+36:516  0:000    3. CE7BEF80: 'FIDT', 'A M I', Rev: 1, Len: 156
+36:516  0:000    4. CE7BF020: 'SSDT', 'Ther_Rvp', Rev: 2, Len: 3197
+36:516  0:000    5. CE7BFCA0: 'SSDT', 'Cpu0Ist', Rev: 2, Len: 1337
+36:516  0:000    6. CE7C01E0: 'SSDT', 'CpuSsdt', Rev: 2, Len: 2932
+36:516  0:000    7. CE7C0D58: 'MCFG', 'A M I', Rev: 1, Len: 60
+36:516  0:000    8. CE7C0D98: 'HPET', 'A M I', Rev: 1, Len: 56
+36:516  0:000    9. CE7C0DD0: 'SSDT', 'SataTabl', Rev: 1, Len: 877
+36:516  0:000    10. CE7C1140: 'SSDT', 'SaSsdt', Rev: 2, Len: 22581
+36:516  0:000    11. CE7C6978: 'ASF!', ' HCG', Rev: 32, Len: 165
+36:516  0:000    12. CE7C6A20: 'UEFI', 'A M I', Rev: 1, Len: 66
+36:516  0:000    13. CE7C6A68: 'BGRT', 'A M I', Rev: 1, Len: 56
